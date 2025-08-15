@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# IDE PyCharm
+.idea/
+
+# Разное
+*.log
+*.sqlite3
+.DS_Store
+
+# Тесты
+.coverage
+htmlcov/
+allure-results/
